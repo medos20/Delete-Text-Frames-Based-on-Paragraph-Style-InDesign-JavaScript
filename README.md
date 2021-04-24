@@ -9,7 +9,7 @@ Note : if you have multiple paragraph styles in the same text frame, only the te
 
 # About
 
-![about](https://github.com/medos20/Delete-Text-Frames-Based-on-Paragraph-Style-InDesign-JavaScript/blob/main/deletePS-about.jpg)
+![about](https://github.com/medos20/Delete-Text-Frames-Based-on-Paragraph-Style-InDesign-JavaScript/blob/main/Detes.jpg)
 
 # Copyright (c) 2021 - Hasanain Scripts
 All Rights Reserved to Mohammad Ibrahim Hasanain on Destributing this Script or Modifying it.
