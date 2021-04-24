@@ -1,4 +1,4 @@
-# Delete-Text-Frames-Based-on-Paragraph-Style-InDesign-JavaScript - Version 1.00
+# Delete-Text-or Text Frame / Frames-Based-on-Paragraph-Style-InDesign-JavaScript - Version 1.01
 
 
 ![userinterface](https://github.com/medos20/Delete-Text-Frames-Based-on-Paragraph-Style-InDesign-JavaScript/blob/main/Delete-TextPS-UI.jpg)
